@@ -46,27 +46,27 @@
         },
         "API_ID": {
             "description": "telegram api id here my.telegram.org/auth",
-            "required": true
+            "required": true,
             "value": "22771108"
         },
         "SUDO_USERS": {
             "description": "ID of users who wana use this spamuserbot",
-            "required": true
+            "required": true,
             "value": "5631719691"
         },
         "ALIVE_PIC": {
             "description": "a telegraph url of image for using in alive",
-            "required": true
+            "required": true,
             "value": "https://telegra.ph/file/1aced97b4bf66aa2140a9.jpg"
         },
         "API_HASH": {
             "description": "telegram api hash here get it from my.telegram.org/auth",
-            "required": true
+            "required": true,
             "value": "95256f20aec02d8158006d9dad3825fa"
         },
         "OWNER_ID": {
             "description": "Your ID as owner of the bot",
-            "required": true
+            "required": true,
             "value": "5631719691"
         }
     },
